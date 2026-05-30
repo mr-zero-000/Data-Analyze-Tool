@@ -1,4 +1,4 @@
-# DataWranglerTool 🛠️
+# Data-Analyze-Tool
 
 A robust Python toolkit for **data wrangling**, feature engineering, interactive visualisation,
 and statistical association analysis — optimised for **Google Colab**.
