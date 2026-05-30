@@ -68,7 +68,7 @@ and statistical association analysis — optimised for **Google Colab**.
 
 ```bash
 # Core (no plotting)
-pip install "git+https://github.com/your-org/data-wrangling-tool.git"
+pip install "!pip install "data-wrangling-tool[plotting] @ git+https://github.com/mr-zero-000/Data-Analyze-Tool.git"
 
 # With plotting support (recommended)
 pip install "data-wrangling-tool[plotting]"
