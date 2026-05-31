@@ -29,37 +29,82 @@ class DataInspector:
         self.numeric_normalized_df = None
 
     def upload_data(self):
-    """
-    Prompts the user to either upload a CSV file directly from their local PC
-    (compatible with Google Colab) or fetch a CSV via a GitHub URL.
-    """
+      """
+      Prompts the user to either upload a CSV file directly from their local PC
+      (compatible with Google Colab) or fetch a CSV via a GitHub URL.
+      """
 
-    print("====== DATA LOADING INTERFACE ======")
-    print("1. Upload a .csv file from your local PC (Google Colab style)")
-    print("2. Load a .csv file from a GitHub repository URL")
-    print("====================================")
+       print("====== DATA LOADING INTERFACE ======")
+       print("1. Upload a .csv file from your local PC (Google Colab style)")
+       print("2. Load a .csv file from a GitHub repository URL")
+       print("====================================")
 
-    choice = input("Enter your choice (1 or 2): ").strip()
+       choice = input("Enter your choice (1 or 2): ").strip()
 
-    data_source = None
-    file_label = ""
+       data_source = None
+       file_label = ""
 
-    if choice == "1":
-        try:
-            from google.colab import files
+       if choice == "1":
+          try:
+              from google.colab import files
+  
+              print("\n📥 Please click the 'Choose Files' button below to upload:")
+              uploaded = files.upload()
 
-            print("\n📥 Please click the 'Choose Files' button below to upload:")
-            uploaded = files.upload()
+              if not uploaded:
+                  print("❌ Upload cancelled.")
+                  return
 
-            if not uploaded:
-                print("❌ Upload cancelled.")
-                return
+              file_label = list(uploaded.keys())[0]
+              data_source = io.BytesIO(uploaded[file_label])
 
-            file_label = list(uploaded.keys())[0]
-            data_source = io.BytesIO(uploaded[file_label])
+          except ImportError:
+              print("\n⚠️ 'google.colab' not found. Falling back to local machine paths.")
 
-        except ImportError:
-        
+              file_path = input("Enter the local absolute path to your CSV file: ").strip()
+
+              if not os.path.exists(file_path):
+                  print(f"❌ Error: File '{file_path}' does not exist.")
+                  return
+
+              file_label = os.path.basename(file_path)
+             data_source = file_path
+
+       elif choice == "2":
+          github_url = input("Enter the GitHub URL to the CSV file: ").strip()
+
+          if "github.com" in github_url and "/blob/" in github_url:
+              github_url = (
+                  github_url
+                  .replace("github.com", "raw.githubusercontent.com")
+                  .replace("/blob/", "/")
+              )
+              print("🔄 Converted link to raw GitHub URL format...")
+
+          file_label = github_url.split("/")[-1]
+          data_source = github_url
+
+       else:
+          print("❌ Invalid selection. Please enter 1 or 2.")
+          return
+
+       try:
+          self.df = pd.read_csv(
+              data_source,
+              na_values=['?', 'n/a', 'N/A', 'NULL', 'null', ' ']
+          )
+
+          self.df['count'] = 1
+
+         for col in self.df.columns:
+              numeric_col = pd.to_numeric(self.df[col], errors='coerce')
+              if not numeric_col.isna().all():
+                  self.df[col] = numeric_col
+
+          print(f"✅ Data from '{file_label}' successfully loaded and types sanitized!")
+
+       except Exception as e:
+          print(f"❌ Failed to parse or read the CSV: {e}")
 
     def get_summary(self):
         """
