@@ -2013,7 +2013,7 @@ class PlottingMethods:
                 "description": formatted_docstring
             })
             
-         return {'status': 'success', 'response': method_dicts}
+        return {'status': 'success', 'response': method_dicts}
 
     def _data_validate(self, data: Any) -> pd.DataFrame:
         """
