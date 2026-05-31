@@ -53,7 +53,7 @@ class DataInspector:
 
             if not uploaded:
                 print("❌ Upload cancelled.")
-                return
+                return 0
 
             file_label = list(uploaded.keys())[0]
             data_source = io.BytesIO(uploaded[file_label])
