@@ -1,0 +1,892 @@
+Name,Sex,Embarked
+"Braund, Mr. Owen Harris",male,S
+"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,C
+"Heikkinen, Miss. Laina",female,S
+"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,S
+"Allen, Mr. William Henry",male,S
+"Moran, Mr. James",male,Q
+"McCarthy, Mr. Timothy J",male,S
+"Palsson, Master. Gosta Leonard",male,S
+"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,S
+"Nasser, Mrs. Nicholas (Adele Achem)",female,C
+"Sandstrom, Miss. Marguerite Rut",female,S
+"Bonnell, Miss. Elizabeth",female,S
+"Saundercock, Mr. William Henry",male,S
+"Andersson, Mr. Anders Johan",male,S
+"Vestrom, Miss. Hulda Amanda Adolfina",female,S
+"Hewlett, Mrs. (Mary D Kingcome) ",female,S
+"Rice, Master. Eugene",male,Q
+"Williams, Mr. Charles Eugene",male,S
+"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,S
+"Masselmani, Mrs. Fatima",female,C
+"Fynney, Mr. Joseph J",male,S
+"Beesley, Mr. Lawrence",male,S
+"McGowan, Miss. Anna ""Annie""",female,Q
+"Sloper, Mr. William Thompson",male,S
+"Palsson, Miss. Torborg Danira",female,S
+"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,S
+"Emir, Mr. Farred Chehab",male,C
+"Fortune, Mr. Charles Alexander",male,S
+"O'Dwyer, Miss. Ellen ""Nellie""",female,Q
+"Todoroff, Mr. Lalio",male,S
+"Uruchurtu, Don. Manuel E",male,C
+"Spencer, Mrs. William Augustus (Marie Eugenie)",female,C
+"Glynn, Miss. Mary Agatha",female,Q
+"Wheadon, Mr. Edward H",male,S
+"Meyer, Mr. Edgar Joseph",male,C
+"Holverson, Mr. Alexander Oskar",male,S
+"Mamee, Mr. Hanna",male,C
+"Cann, Mr. Ernest Charles",male,S
+"Vander Planke, Miss. Augusta Maria",female,S
+"Nicola-Yarred, Miss. Jamila",female,C
+"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,S
+"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,S
+"Kraeff, Mr. Theodor",male,C
+"Laroche, Miss. Simonne Marie Anne Andree",female,C
+"Devaney, Miss. Margaret Delia",female,Q
+"Rogers, Mr. William John",male,S
+"Lennon, Mr. Denis",male,Q
+"O'Driscoll, Miss. Bridget",female,Q
+"Samaan, Mr. Youssef",male,C
+"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,S
+"Panula, Master. Juha Niilo",male,S
+"Nosworthy, Mr. Richard Cater",male,S
+"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,C
+"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,S
+"Ostby, Mr. Engelhart Cornelius",male,C
+"Woolner, Mr. Hugh",male,S
+"Rugg, Miss. Emily",female,S
+"Novel, Mr. Mansouer",male,C
+"West, Miss. Constance Mirium",female,S
+"Goodwin, Master. William Frederick",male,S
+"Sirayanian, Mr. Orsen",male,C
+"Icard, Miss. Amelie",female,
+"Harris, Mr. Henry Birkhardt",male,S
+"Skoog, Master. Harald",male,S
+"Stewart, Mr. Albert A",male,C
+"Moubarek, Master. Gerios",male,C
+"Nye, Mrs. (Elizabeth Ramell)",female,S
+"Crease, Mr. Ernest James",male,S
+"Andersson, Miss. Erna Alexandra",female,S
+"Kink, Mr. Vincenz",male,S
+"Jenkin, Mr. Stephen Curnow",male,S
+"Goodwin, Miss. Lillian Amy",female,S
+"Hood, Mr. Ambrose Jr",male,S
+"Chronopoulos, Mr. Apostolos",male,C
+"Bing, Mr. Lee",male,S
+"Moen, Mr. Sigurd Hansen",male,S
+"Staneff, Mr. Ivan",male,S
+"Moutal, Mr. Rahamin Haim",male,S
+"Caldwell, Master. Alden Gates",male,S
+"Dowdell, Miss. Elizabeth",female,S
+"Waelens, Mr. Achille",male,S
+"Sheerlinck, Mr. Jan Baptist",male,S
+"McDermott, Miss. Brigdet Delia",female,Q
+"Carrau, Mr. Francisco M",male,S
+"Ilett, Miss. Bertha",female,S
+"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,S
+"Ford, Mr. William Neal",male,S
+"Slocovski, Mr. Selman Francis",male,S
+"Fortune, Miss. Mabel Helen",female,S
+"Celotti, Mr. Francesco",male,S
+"Christmann, Mr. Emil",male,S
+"Andreasson, Mr. Paul Edvin",male,S
+"Chaffee, Mr. Herbert Fuller",male,S
+"Dean, Mr. Bertram Frank",male,S
+"Coxon, Mr. Daniel",male,S
+"Shorney, Mr. Charles Joseph",male,S
+"Goldschmidt, Mr. George B",male,C
+"Greenfield, Mr. William Bertram",male,C
+"Doling, Mrs. John T (Ada Julia Bone)",female,S
+"Kantor, Mr. Sinai",male,S
+"Petranec, Miss. Matilda",female,S
+"Petroff, Mr. Pastcho (""Pentcho"")",male,S
+"White, Mr. Richard Frasar",male,S
+"Johansson, Mr. Gustaf Joel",male,S
+"Gustafsson, Mr. Anders Vilhelm",male,S
+"Mionoff, Mr. Stoytcho",male,S
+"Salkjelsvik, Miss. Anna Kristine",female,S
+"Moss, Mr. Albert Johan",male,S
+"Rekic, Mr. Tido",male,S
+"Moran, Miss. Bertha",female,Q
+"Porter, Mr. Walter Chamberlain",male,S
+"Zabour, Miss. Hileni",female,C
+"Barton, Mr. David John",male,S
+"Jussila, Miss. Katriina",female,S
+"Attalah, Miss. Malake",female,C
+"Pekoniemi, Mr. Edvard",male,S
+"Connors, Mr. Patrick",male,Q
+"Turpin, Mr. William John Robert",male,S
+"Baxter, Mr. Quigg Edmond",male,C
+"Andersson, Miss. Ellis Anna Maria",female,S
+"Hickman, Mr. Stanley George",male,S
+"Moore, Mr. Leonard Charles",male,S
+"Nasser, Mr. Nicholas",male,C
+"Webber, Miss. Susan",female,S
+"White, Mr. Percival Wayland",male,S
+"Nicola-Yarred, Master. Elias",male,C
+"McMahon, Mr. Martin",male,Q
+"Madsen, Mr. Fridtjof Arne",male,S
+"Peter, Miss. Anna",female,C
+"Ekstrom, Mr. Johan",male,S
+"Drazenoic, Mr. Jozef",male,C
+"Coelho, Mr. Domingos Fernandeo",male,S
+"Robins, Mrs. Alexander A (Grace Charity Laury)",female,S
+"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,S
+"Sobey, Mr. Samuel James Hayden",male,S
+"Richard, Mr. Emile",male,C
+"Newsom, Miss. Helen Monypeny",female,S
+"Futrelle, Mr. Jacques Heath",male,S
+"Osen, Mr. Olaf Elon",male,S
+"Giglio, Mr. Victor",male,C
+"Boulos, Mrs. Joseph (Sultana)",female,C
+"Nysten, Miss. Anna Sofia",female,S
+"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,S
+"Burke, Mr. Jeremiah",male,Q
+"Andrew, Mr. Edgardo Samuel",male,S
+"Nicholls, Mr. Joseph Charles",male,S
+"Andersson, Mr. August Edvard (""Wennerstrom"")",male,S
+"Ford, Miss. Robina Maggie ""Ruby""",female,S
+"Navratil, Mr. Michel (""Louis M Hoffman"")",male,S
+"Byles, Rev. Thomas Roussel Davids",male,S
+"Bateman, Rev. Robert James",male,S
+"Pears, Mrs. Thomas (Edith Wearne)",female,S
+"Meo, Mr. Alfonzo",male,S
+"van Billiard, Mr. Austin Blyler",male,S
+"Olsen, Mr. Ole Martin",male,S
+"Williams, Mr. Charles Duane",male,C
+"Gilnagh, Miss. Katherine ""Katie""",female,Q
+"Corn, Mr. Harry",male,S
+"Smiljanic, Mr. Mile",male,S
+"Sage, Master. Thomas Henry",male,S
+"Cribb, Mr. John Hatfield",male,S
+"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,S
+"Bengtsson, Mr. John Viktor",male,S
+"Calic, Mr. Jovo",male,S
+"Panula, Master. Eino Viljami",male,S
+"Goldsmith, Master. Frank John William ""Frankie""",male,S
+"Chibnall, Mrs. (Edith Martha Bowerman)",female,S
+"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,S
+"Baumann, Mr. John D",male,S
+"Ling, Mr. Lee",male,S
+"Van der hoef, Mr. Wyckoff",male,S
+"Rice, Master. Arthur",male,Q
+"Johnson, Miss. Eleanor Ileen",female,S
+"Sivola, Mr. Antti Wilhelm",male,S
+"Smith, Mr. James Clinch",male,C
+"Klasen, Mr. Klas Albin",male,S
+"Lefebre, Master. Henry Forbes",male,S
+"Isham, Miss. Ann Elizabeth",female,C
+"Hale, Mr. Reginald",male,S
+"Leonard, Mr. Lionel",male,S
+"Sage, Miss. Constance Gladys",female,S
+"Pernot, Mr. Rene",male,C
+"Asplund, Master. Clarence Gustaf Hugo",male,S
+"Becker, Master. Richard F",male,S
+"Kink-Heilmann, Miss. Luise Gretchen",female,S
+"Rood, Mr. Hugh Roscoe",male,S
+"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,Q
+"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,S
+"Bourke, Mr. John",male,Q
+"Turcin, Mr. Stjepan",male,S
+"Pinsky, Mrs. (Rosa)",female,S
+"Carbines, Mr. William",male,S
+"Andersen-Jensen, Miss. Carla Christine Nielsine",female,S
+"Navratil, Master. Michel M",male,S
+"Brown, Mrs. James Joseph (Margaret Tobin)",female,C
+"Lurette, Miss. Elise",female,C
+"Mernagh, Mr. Robert",male,Q
+"Olsen, Mr. Karl Siegwart Andreas",male,S
+"Madigan, Miss. Margaret ""Maggie""",female,Q
+"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,S
+"Vande Walle, Mr. Nestor Cyriel",male,S
+"Sage, Mr. Frederick",male,S
+"Johanson, Mr. Jakob Alfred",male,S
+"Youseff, Mr. Gerious",male,C
+"Cohen, Mr. Gurshon ""Gus""",male,S
+"Strom, Miss. Telma Matilda",female,S
+"Backstrom, Mr. Karl Alfred",male,S
+"Albimona, Mr. Nassef Cassem",male,C
+"Carr, Miss. Helen ""Ellen""",female,Q
+"Blank, Mr. Henry",male,C
+"Ali, Mr. Ahmed",male,S
+"Cameron, Miss. Clear Annie",female,S
+"Perkin, Mr. John Henry",male,S
+"Givard, Mr. Hans Kristensen",male,S
+"Kiernan, Mr. Philip",male,Q
+"Newell, Miss. Madeleine",female,C
+"Honkanen, Miss. Eliina",female,S
+"Jacobsohn, Mr. Sidney Samuel",male,S
+"Bazzani, Miss. Albina",female,C
+"Harris, Mr. Walter",male,S
+"Sunderland, Mr. Victor Francis",male,S
+"Bracken, Mr. James H",male,S
+"Green, Mr. George Henry",male,S
+"Nenkoff, Mr. Christo",male,S
+"Hoyt, Mr. Frederick Maxfield",male,S
+"Berglund, Mr. Karl Ivar Sven",male,S
+"Mellors, Mr. William John",male,S
+"Lovell, Mr. John Hall (""Henry"")",male,S
+"Fahlstrom, Mr. Arne Jonas",male,S
+"Lefebre, Miss. Mathilde",female,S
+"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,S
+"Larsson, Mr. Bengt Edvin",male,S
+"Sjostedt, Mr. Ernst Adolf",male,S
+"Asplund, Miss. Lillian Gertrud",female,S
+"Leyson, Mr. Robert William Norman",male,S
+"Harknett, Miss. Alice Phoebe",female,S
+"Hold, Mr. Stephen",male,S
+"Collyer, Miss. Marjorie ""Lottie""",female,S
+"Pengelly, Mr. Frederick William",male,S
+"Hunt, Mr. George Henry",male,S
+"Zabour, Miss. Thamine",female,C
+"Murphy, Miss. Katherine ""Kate""",female,Q
+"Coleridge, Mr. Reginald Charles",male,S
+"Maenpaa, Mr. Matti Alexanteri",male,S
+"Attalah, Mr. Sleiman",male,C
+"Minahan, Dr. William Edward",male,Q
+"Lindahl, Miss. Agda Thorilda Viktoria",female,S
+"Hamalainen, Mrs. William (Anna)",female,S
+"Beckwith, Mr. Richard Leonard",male,S
+"Carter, Rev. Ernest Courtenay",male,S
+"Reed, Mr. James George",male,S
+"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,S
+"Stead, Mr. William Thomas",male,S
+"Lobb, Mr. William Arthur",male,S
+"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,S
+"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,C
+"Thorne, Mrs. Gertrude Maybelle",female,C
+"Cherry, Miss. Gladys",female,S
+"Ward, Miss. Anna",female,C
+"Parrish, Mrs. (Lutie Davis)",female,S
+"Smith, Mr. Thomas",male,Q
+"Asplund, Master. Edvin Rojj Felix",male,S
+"Taussig, Mr. Emil",male,S
+"Harrison, Mr. William",male,S
+"Henry, Miss. Delia",female,Q
+"Reeves, Mr. David",male,S
+"Panula, Mr. Ernesti Arvid",male,S
+"Persson, Mr. Ernst Ulrik",male,S
+"Graham, Mrs. William Thompson (Edith Junkins)",female,S
+"Bissette, Miss. Amelia",female,S
+"Cairns, Mr. Alexander",male,S
+"Tornquist, Mr. William Henry",male,S
+"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,S
+"Natsch, Mr. Charles H",male,C
+"Healy, Miss. Hanora ""Nora""",female,Q
+"Andrews, Miss. Kornelia Theodosia",female,S
+"Lindblom, Miss. Augusta Charlotta",female,S
+"Parkes, Mr. Francis ""Frank""",male,S
+"Rice, Master. Eric",male,Q
+"Abbott, Mrs. Stanton (Rosa Hunt)",female,S
+"Duane, Mr. Frank",male,Q
+"Olsson, Mr. Nils Johan Goransson",male,S
+"de Pelsmaeker, Mr. Alfons",male,S
+"Dorking, Mr. Edward Arthur",male,S
+"Smith, Mr. Richard William",male,S
+"Stankovic, Mr. Ivan",male,C
+"de Mulder, Mr. Theodore",male,S
+"Naidenoff, Mr. Penko",male,S
+"Hosono, Mr. Masabumi",male,S
+"Connolly, Miss. Kate",female,Q
+"Barber, Miss. Ellen ""Nellie""",female,S
+"Bishop, Mrs. Dickinson H (Helen Walton)",female,C
+"Levy, Mr. Rene Jacques",male,C
+"Haas, Miss. Aloisia",female,S
+"Mineff, Mr. Ivan",male,S
+"Lewy, Mr. Ervin G",male,C
+"Hanna, Mr. Mansour",male,C
+"Allison, Miss. Helen Loraine",female,S
+"Saalfeld, Mr. Adolphe",male,S
+"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,C
+"Kelly, Miss. Anna Katherine ""Annie Kate""",female,Q
+"McCoy, Mr. Bernard",male,Q
+"Johnson, Mr. William Cahoone Jr",male,S
+"Keane, Miss. Nora A",female,Q
+"Williams, Mr. Howard Hugh ""Harry""",male,S
+"Allison, Master. Hudson Trevor",male,S
+"Fleming, Miss. Margaret",female,C
+"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,C
+"Abelson, Mr. Samuel",male,C
+"Francatelli, Miss. Laura Mabel",female,C
+"Hays, Miss. Margaret Bechstein",female,C
+"Ryerson, Miss. Emily Borie",female,C
+"Lahtinen, Mrs. William (Anna Sylfven)",female,S
+"Hendekovic, Mr. Ignjac",male,S
+"Hart, Mr. Benjamin",male,S
+"Nilsson, Miss. Helmina Josefina",female,S
+"Kantor, Mrs. Sinai (Miriam Sternin)",female,S
+"Moraweck, Dr. Ernest",male,S
+"Wick, Miss. Mary Natalie",female,S
+"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,C
+"Dennis, Mr. Samuel",male,S
+"Danoff, Mr. Yoto",male,S
+"Slayter, Miss. Hilda Mary",female,Q
+"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,S
+"Sage, Mr. George John Jr",male,S
+"Young, Miss. Marie Grice",female,C
+"Nysveen, Mr. Johan Hansen",male,S
+"Ball, Mrs. (Ada E Hall)",female,S
+"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,S
+"Hippach, Miss. Jean Gertrude",female,C
+"McCoy, Miss. Agnes",female,Q
+"Partner, Mr. Austen",male,S
+"Graham, Mr. George Edward",male,S
+"Vander Planke, Mr. Leo Edmondus",male,S
+"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,S
+"Denkoff, Mr. Mitto",male,S
+"Pears, Mr. Thomas Clinton",male,S
+"Burns, Miss. Elizabeth Margaret",female,C
+"Dahl, Mr. Karl Edwart",male,S
+"Blackwell, Mr. Stephen Weart",male,S
+"Navratil, Master. Edmond Roger",male,S
+"Fortune, Miss. Alice Elizabeth",female,S
+"Collander, Mr. Erik Gustaf",male,S
+"Sedgwick, Mr. Charles Frederick Waddington",male,S
+"Fox, Mr. Stanley Hubert",male,S
+"Brown, Miss. Amelia ""Mildred""",female,S
+"Smith, Miss. Marion Elsie",female,S
+"Davison, Mrs. Thomas Henry (Mary E Finck)",female,S
+"Coutts, Master. William Loch ""William""",male,S
+"Dimic, Mr. Jovan",male,S
+"Odahl, Mr. Nils Martin",male,S
+"Williams-Lambert, Mr. Fletcher Fellows",male,S
+"Elias, Mr. Tannous",male,C
+"Arnold-Franchi, Mr. Josef",male,S
+"Yousif, Mr. Wazli",male,C
+"Vanden Steen, Mr. Leo Peter",male,S
+"Bowerman, Miss. Elsie Edith",female,S
+"Funk, Miss. Annie Clemmer",female,S
+"McGovern, Miss. Mary",female,Q
+"Mockler, Miss. Helen Mary ""Ellie""",female,Q
+"Skoog, Mr. Wilhelm",male,S
+"del Carlo, Mr. Sebastiano",male,C
+"Barbara, Mrs. (Catherine David)",female,C
+"Asim, Mr. Adola",male,S
+"O'Brien, Mr. Thomas",male,Q
+"Adahl, Mr. Mauritz Nils Martin",male,S
+"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,C
+"Moussa, Mrs. (Mantoura Boulos)",female,C
+"Jermyn, Miss. Annie",female,Q
+"Aubart, Mme. Leontine Pauline",female,C
+"Harder, Mr. George Achilles",male,C
+"Wiklund, Mr. Jakob Alfred",male,S
+"Beavan, Mr. William Thomas",male,S
+"Ringhini, Mr. Sante",male,C
+"Palsson, Miss. Stina Viola",female,S
+"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,C
+"Landergren, Miss. Aurora Adelia",female,S
+"Widener, Mr. Harry Elkins",male,C
+"Betros, Mr. Tannous",male,C
+"Gustafsson, Mr. Karl Gideon",male,S
+"Bidois, Miss. Rosalie",female,C
+"Nakid, Miss. Maria (""Mary"")",female,C
+"Tikkanen, Mr. Juho",male,S
+"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,S
+"Plotcharsky, Mr. Vasil",male,S
+"Davies, Mr. Charles Henry",male,S
+"Goodwin, Master. Sidney Leonard",male,S
+"Buss, Miss. Kate",female,S
+"Sadlier, Mr. Matthew",male,Q
+"Lehmann, Miss. Bertha",female,C
+"Carter, Mr. William Ernest",male,S
+"Jansson, Mr. Carl Olof",male,S
+"Gustafsson, Mr. Johan Birger",male,S
+"Newell, Miss. Marjorie",female,C
+"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,S
+"Johansson, Mr. Erik",male,S
+"Olsson, Miss. Elina",female,S
+"McKane, Mr. Peter David",male,S
+"Pain, Dr. Alfred",male,S
+"Trout, Mrs. William H (Jessie L)",female,S
+"Niskanen, Mr. Juha",male,S
+"Adams, Mr. John",male,S
+"Jussila, Miss. Mari Aina",female,S
+"Hakkarainen, Mr. Pekka Pietari",male,S
+"Oreskovic, Miss. Marija",female,S
+"Gale, Mr. Shadrach",male,S
+"Widegren, Mr. Carl/Charles Peter",male,S
+"Richards, Master. William Rowe",male,S
+"Birkeland, Mr. Hans Martin Monsen",male,S
+"Lefebre, Miss. Ida",female,S
+"Sdycoff, Mr. Todor",male,S
+"Hart, Mr. Henry",male,Q
+"Minahan, Miss. Daisy E",female,Q
+"Cunningham, Mr. Alfred Fleming",male,S
+"Sundman, Mr. Johan Julian",male,S
+"Meek, Mrs. Thomas (Annie Louise Rowley)",female,S
+"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,S
+"Silven, Miss. Lyyli Karoliina",female,S
+"Matthews, Mr. William John",male,S
+"Van Impe, Miss. Catharina",female,S
+"Gheorgheff, Mr. Stanio",male,C
+"Charters, Mr. David",male,Q
+"Zimmerman, Mr. Leo",male,S
+"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,S
+"Rosblom, Mr. Viktor Richard",male,S
+"Wiseman, Mr. Phillippe",male,S
+"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,S
+"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,S
+"Flynn, Mr. James",male,Q
+"Pickard, Mr. Berk (Berk Trembisky)",male,S
+"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,S
+"Thorneycroft, Mrs. Percival (Florence Kate White)",female,S
+"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,S
+"Kallio, Mr. Nikolai Erland",male,S
+"Silvey, Mr. William Baird",male,S
+"Carter, Miss. Lucile Polk",female,S
+"Ford, Miss. Doolina Margaret ""Daisy""",female,S
+"Richards, Mrs. Sidney (Emily Hocking)",female,S
+"Fortune, Mr. Mark",male,S
+"Kvillner, Mr. Johan Henrik Johannesson",male,S
+"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,S
+"Hampe, Mr. Leon",male,S
+"Petterson, Mr. Johan Emil",male,S
+"Reynaldo, Ms. Encarnacion",female,S
+"Johannesen-Bratthammer, Mr. Bernt",male,S
+"Dodge, Master. Washington",male,S
+"Mellinger, Miss. Madeleine Violet",female,S
+"Seward, Mr. Frederic Kimber",male,S
+"Baclini, Miss. Marie Catherine",female,C
+"Peuchen, Major. Arthur Godfrey",male,S
+"West, Mr. Edwy Arthur",male,S
+"Hagland, Mr. Ingvald Olai Olsen",male,S
+"Foreman, Mr. Benjamin Laventall",male,C
+"Goldenberg, Mr. Samuel L",male,C
+"Peduzzi, Mr. Joseph",male,S
+"Jalsevac, Mr. Ivan",male,C
+"Millet, Mr. Francis Davis",male,S
+"Kenyon, Mrs. Frederick R (Marion)",female,S
+"Toomey, Miss. Ellen",female,S
+"O'Connor, Mr. Maurice",male,Q
+"Anderson, Mr. Harry",male,S
+"Morley, Mr. William",male,S
+"Gee, Mr. Arthur H",male,S
+"Milling, Mr. Jacob Christian",male,S
+"Maisner, Mr. Simon",male,S
+"Goncalves, Mr. Manuel Estanslas",male,S
+"Campbell, Mr. William",male,S
+"Smart, Mr. John Montgomery",male,S
+"Scanlan, Mr. James",male,Q
+"Baclini, Miss. Helene Barbara",female,C
+"Keefe, Mr. Arthur",male,S
+"Cacic, Mr. Luka",male,S
+"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,S
+"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,C
+"Strandberg, Miss. Ida Sofia",female,S
+"Clifford, Mr. George Quincy",male,S
+"Renouf, Mr. Peter Henry",male,S
+"Braund, Mr. Lewis Richard",male,S
+"Karlsson, Mr. Nils August",male,S
+"Hirvonen, Miss. Hildur E",female,S
+"Goodwin, Master. Harold Victor",male,S
+"Frost, Mr. Anthony Wood ""Archie""",male,S
+"Rouse, Mr. Richard Henry",male,S
+"Turkula, Mrs. (Hedwig)",female,S
+"Bishop, Mr. Dickinson H",male,C
+"Lefebre, Miss. Jeannie",female,S
+"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,S
+"Kent, Mr. Edward Austin",male,C
+"Somerton, Mr. Francis William",male,S
+"Coutts, Master. Eden Leslie ""Neville""",male,S
+"Hagland, Mr. Konrad Mathias Reiersen",male,S
+"Windelov, Mr. Einar",male,S
+"Molson, Mr. Harry Markland",male,S
+"Artagaveytia, Mr. Ramon",male,C
+"Stanley, Mr. Edward Roland",male,S
+"Yousseff, Mr. Gerious",male,C
+"Eustis, Miss. Elizabeth Mussey",female,C
+"Shellard, Mr. Frederick William",male,S
+"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,S
+"Svensson, Mr. Olof",male,S
+"Calic, Mr. Petar",male,S
+"Canavan, Miss. Mary",female,Q
+"O'Sullivan, Miss. Bridget Mary",female,Q
+"Laitinen, Miss. Kristina Sofia",female,S
+"Maioni, Miss. Roberta",female,S
+"Penasco y Castellana, Mr. Victor de Satode",male,C
+"Quick, Mrs. Frederick Charles (Jane Richards)",female,S
+"Bradley, Mr. George (""George Arthur Brayton"")",male,S
+"Olsen, Mr. Henry Margido",male,S
+"Lang, Mr. Fang",male,S
+"Daly, Mr. Eugene Patrick",male,Q
+"Webber, Mr. James",male,S
+"McGough, Mr. James Robert",male,S
+"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,C
+"Coleff, Mr. Satio",male,S
+"Walker, Mr. William Anderson",male,S
+"Lemore, Mrs. (Amelia Milley)",female,S
+"Ryan, Mr. Patrick",male,Q
+"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,S
+"Pavlovic, Mr. Stefo",male,S
+"Perreault, Miss. Anne",female,S
+"Vovk, Mr. Janko",male,S
+"Lahoud, Mr. Sarkis",male,C
+"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,C
+"Kassem, Mr. Fared",male,C
+"Farrell, Mr. James",male,Q
+"Ridsdale, Miss. Lucy",female,S
+"Farthing, Mr. John",male,S
+"Salonen, Mr. Johan Werner",male,S
+"Hocking, Mr. Richard George",male,S
+"Quick, Miss. Phyllis May",female,S
+"Toufik, Mr. Nakli",male,C
+"Elias, Mr. Joseph Jr",male,C
+"Peter, Mrs. Catherine (Catherine Rizk)",female,C
+"Cacic, Miss. Marija",female,S
+"Hart, Miss. Eva Miriam",female,S
+"Butt, Major. Archibald Willingham",male,S
+"LeRoy, Miss. Bertha",female,C
+"Risien, Mr. Samuel Beard",male,S
+"Frolicher, Miss. Hedwig Margaritha",female,C
+"Crosby, Miss. Harriet R",female,S
+"Andersson, Miss. Ingeborg Constanzia",female,S
+"Andersson, Miss. Sigrid Elisabeth",female,S
+"Beane, Mr. Edward",male,S
+"Douglas, Mr. Walter Donald",male,C
+"Nicholson, Mr. Arthur Ernest",male,S
+"Beane, Mrs. Edward (Ethel Clarke)",female,S
+"Padro y Manent, Mr. Julian",male,C
+"Goldsmith, Mr. Frank John",male,S
+"Davies, Master. John Morgan Jr",male,S
+"Thayer, Mr. John Borland Jr",male,C
+"Sharp, Mr. Percival James R",male,S
+"O'Brien, Mr. Timothy",male,Q
+"Leeni, Mr. Fahim (""Philip Zenni"")",male,C
+"Ohman, Miss. Velin",female,S
+"Wright, Mr. George",male,S
+"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,C
+"Robbins, Mr. Victor",male,C
+"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,S
+"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,S
+"Morrow, Mr. Thomas Rowan",male,Q
+"Sivic, Mr. Husein",male,S
+"Norman, Mr. Robert Douglas",male,S
+"Simmons, Mr. John",male,S
+"Meanwell, Miss. (Marion Ogden)",female,S
+"Davies, Mr. Alfred J",male,S
+"Stoytcheff, Mr. Ilia",male,S
+"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,S
+"Doharr, Mr. Tannous",male,C
+"Jonsson, Mr. Carl",male,S
+"Harris, Mr. George",male,S
+"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,S
+"Flynn, Mr. John Irwin (""Irving"")",male,S
+"Kelly, Miss. Mary",female,Q
+"Rush, Mr. Alfred George John",male,S
+"Patchett, Mr. George",male,S
+"Garside, Miss. Ethel",female,S
+"Silvey, Mrs. William Baird (Alice Munger)",female,S
+"Caram, Mrs. Joseph (Maria Elias)",female,C
+"Jussila, Mr. Eiriik",male,S
+"Christy, Miss. Julie Rachel",female,S
+"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,C
+"Downton, Mr. William James",male,S
+"Ross, Mr. John Hugo",male,C
+"Paulner, Mr. Uscher",male,C
+"Taussig, Miss. Ruth",female,S
+"Jarvis, Mr. John Denzil",male,S
+"Frolicher-Stehli, Mr. Maxmillian",male,C
+"Gilinski, Mr. Eliezer",male,S
+"Murdlin, Mr. Joseph",male,S
+"Rintamaki, Mr. Matti",male,S
+"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,C
+"Elsbury, Mr. William James",male,S
+"Bourke, Miss. Mary",female,Q
+"Chapman, Mr. John Henry",male,S
+"Van Impe, Mr. Jean Baptiste",male,S
+"Leitch, Miss. Jessie Wills",female,S
+"Johnson, Mr. Alfred",male,S
+"Boulos, Mr. Hanna",male,C
+"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,C
+"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,S
+"Slabenoff, Mr. Petco",male,S
+"Harrington, Mr. Charles H",male,S
+"Torber, Mr. Ernst William",male,S
+"Homer, Mr. Harry (""Mr E Haven"")",male,C
+"Lindell, Mr. Edvard Bengtsson",male,S
+"Karaic, Mr. Milan",male,S
+"Daniel, Mr. Robert Williams",male,S
+"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,C
+"Shutes, Miss. Elizabeth W",female,S
+"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,S
+"Jardin, Mr. Jose Neto",male,S
+"Murphy, Miss. Margaret Jane",female,Q
+"Horgan, Mr. John",male,Q
+"Brocklebank, Mr. William Alfred",male,S
+"Herman, Miss. Alice",female,S
+"Danbom, Mr. Ernst Gilbert",male,S
+"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,S
+"Becker, Miss. Marion Louise",female,S
+"Gavey, Mr. Lawrence",male,S
+"Yasbeck, Mr. Antoni",male,C
+"Kimball, Mr. Edwin Nelson Jr",male,S
+"Nakid, Mr. Sahid",male,C
+"Hansen, Mr. Henry Damsgaard",male,S
+"Bowen, Mr. David John ""Dai""",male,S
+"Sutton, Mr. Frederick",male,S
+"Kirkland, Rev. Charles Leonard",male,Q
+"Longley, Miss. Gretchen Fiske",female,S
+"Bostandyeff, Mr. Guentcho",male,S
+"O'Connell, Mr. Patrick D",male,Q
+"Barkworth, Mr. Algernon Henry Wilson",male,S
+"Lundahl, Mr. Johan Svensson",male,S
+"Stahelin-Maeglin, Dr. Max",male,C
+"Parr, Mr. William Henry Marsh",male,S
+"Skoog, Miss. Mabel",female,S
+"Davis, Miss. Mary",female,S
+"Leinonen, Mr. Antti Gustaf",male,S
+"Collyer, Mr. Harvey",male,S
+"Panula, Mrs. Juha (Maria Emilia Ojala)",female,S
+"Thorneycroft, Mr. Percival",male,S
+"Jensen, Mr. Hans Peder",male,S
+"Sagesser, Mlle. Emma",female,C
+"Skoog, Miss. Margit Elizabeth",female,S
+"Foo, Mr. Choong",male,S
+"Baclini, Miss. Eugenie",female,C
+"Harper, Mr. Henry Sleeper",male,C
+"Cor, Mr. Liudevit",male,S
+"Simonius-Blumer, Col. Oberst Alfons",male,C
+"Willey, Mr. Edward",male,S
+"Stanley, Miss. Amy Zillah Elsie",female,S
+"Mitkoff, Mr. Mito",male,S
+"Doling, Miss. Elsie",female,S
+"Kalvik, Mr. Johannes Halvorsen",male,S
+"O'Leary, Miss. Hanora ""Norah""",female,Q
+"Hegarty, Miss. Hanora ""Nora""",female,Q
+"Hickman, Mr. Leonard Mark",male,S
+"Radeff, Mr. Alexander",male,S
+"Bourke, Mrs. John (Catherine)",female,Q
+"Eitemiller, Mr. George Floyd",male,S
+"Newell, Mr. Arthur Webster",male,C
+"Frauenthal, Dr. Henry William",male,S
+"Badt, Mr. Mohamed",male,C
+"Colley, Mr. Edward Pomeroy",male,S
+"Coleff, Mr. Peju",male,S
+"Lindqvist, Mr. Eino William",male,S
+"Hickman, Mr. Lewis",male,S
+"Butler, Mr. Reginald Fenton",male,S
+"Rommetvedt, Mr. Knud Paust",male,S
+"Cook, Mr. Jacob",male,S
+"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,S
+"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,S
+"Davidson, Mr. Thornton",male,S
+"Mitchell, Mr. Henry Michael",male,S
+"Wilhelms, Mr. Charles",male,S
+"Watson, Mr. Ennis Hastings",male,S
+"Edvardsson, Mr. Gustaf Hjalmar",male,S
+"Sawyer, Mr. Frederick Charles",male,S
+"Turja, Miss. Anna Sofia",female,S
+"Goodwin, Mrs. Frederick (Augusta Tyler)",female,S
+"Cardeza, Mr. Thomas Drake Martinez",male,C
+"Peters, Miss. Katie",female,Q
+"Hassab, Mr. Hammad",male,C
+"Olsvigen, Mr. Thor Anderson",male,S
+"Goodwin, Mr. Charles Edward",male,S
+"Brown, Mr. Thomas William Solomon",male,S
+"Laroche, Mr. Joseph Philippe Lemercier",male,C
+"Panula, Mr. Jaako Arnold",male,S
+"Dakic, Mr. Branko",male,S
+"Fischer, Mr. Eberhard Thelander",male,S
+"Madill, Miss. Georgette Alexandra",female,S
+"Dick, Mr. Albert Adrian",male,S
+"Karun, Miss. Manca",female,C
+"Lam, Mr. Ali",male,S
+"Saad, Mr. Khalil",male,C
+"Weir, Col. John",male,S
+"Chapman, Mr. Charles Henry",male,S
+"Kelly, Mr. James",male,S
+"Mullens, Miss. Katherine ""Katie""",female,Q
+"Thayer, Mr. John Borland",male,C
+"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,S
+"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,C
+"Silverthorne, Mr. Spencer Victor",male,S
+"Barbara, Miss. Saiide",female,C
+"Gallagher, Mr. Martin",male,Q
+"Hansen, Mr. Henrik Juul",male,S
+"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,S
+"Kelly, Mrs. Florence ""Fannie""",female,S
+"Calderhead, Mr. Edward Pennington",male,S
+"Cleaver, Miss. Alice",female,S
+"Moubarek, Master. Halim Gonios (""William George"")",male,C
+"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,C
+"Klaber, Mr. Herman",male,S
+"Taylor, Mr. Elmer Zebley",male,S
+"Larsson, Mr. August Viktor",male,S
+"Greenberg, Mr. Samuel",male,S
+"Soholt, Mr. Peter Andreas Lauritz Andersen",male,S
+"Endres, Miss. Caroline Louise",female,C
+"Troutt, Miss. Edwina Celia ""Winnie""",female,S
+"McEvoy, Mr. Michael",male,Q
+"Johnson, Mr. Malkolm Joackim",male,S
+"Harper, Miss. Annie Jessie ""Nina""",female,S
+"Jensen, Mr. Svend Lauritz",male,S
+"Gillespie, Mr. William Henry",male,S
+"Hodges, Mr. Henry Price",male,S
+"Chambers, Mr. Norman Campbell",male,S
+"Oreskovic, Mr. Luka",male,S
+"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,S
+"Mannion, Miss. Margareth",female,Q
+"Bryhl, Mr. Kurt Arnold Gottfrid",male,S
+"Ilmakangas, Miss. Pieta Sofia",female,S
+"Allen, Miss. Elisabeth Walton",female,S
+"Hassan, Mr. Houssein G N",male,C
+"Knight, Mr. Robert J",male,S
+"Berriman, Mr. William John",male,S
+"Troupiansky, Mr. Moses Aaron",male,S
+"Williams, Mr. Leslie",male,S
+"Ford, Mrs. Edward (Margaret Ann Watson)",female,S
+"Lesurer, Mr. Gustave J",male,C
+"Ivanoff, Mr. Kanio",male,S
+"Nankoff, Mr. Minko",male,S
+"Hawksford, Mr. Walter James",male,S
+"Cavendish, Mr. Tyrell William",male,S
+"Ryerson, Miss. Susan Parker ""Suzette""",female,C
+"McNamee, Mr. Neal",male,S
+"Stranden, Mr. Juho",male,S
+"Crosby, Capt. Edward Gifford",male,S
+"Abbott, Mr. Rossmore Edward",male,S
+"Sinkkonen, Miss. Anna",female,S
+"Marvin, Mr. Daniel Warner",male,S
+"Connaghton, Mr. Michael",male,Q
+"Wells, Miss. Joan",female,S
+"Moor, Master. Meier",male,S
+"Vande Velde, Mr. Johannes Joseph",male,S
+"Jonkoff, Mr. Lalio",male,S
+"Herman, Mrs. Samuel (Jane Laver)",female,S
+"Hamalainen, Master. Viljo",male,S
+"Carlsson, Mr. August Sigfrid",male,S
+"Bailey, Mr. Percy Andrew",male,S
+"Theobald, Mr. Thomas Leonard",male,S
+"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,S
+"Garfirth, Mr. John",male,S
+"Nirva, Mr. Iisakki Antino Aijo",male,S
+"Barah, Mr. Hanna Assi",male,C
+"Carter, Mrs. William Ernest (Lucile Polk)",female,S
+"Eklund, Mr. Hans Linus",male,S
+"Hogeboom, Mrs. John C (Anna Andrews)",female,S
+"Brewe, Dr. Arthur Jackson",male,C
+"Mangan, Miss. Mary",female,Q
+"Moran, Mr. Daniel J",male,Q
+"Gronnestad, Mr. Daniel Danielsen",male,S
+"Lievens, Mr. Rene Aime",male,S
+"Jensen, Mr. Niels Peder",male,S
+"Mack, Mrs. (Mary)",female,S
+"Elias, Mr. Dibo",male,C
+"Hocking, Mrs. Elizabeth (Eliza Needs)",female,S
+"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,S
+"Tobin, Mr. Roger",male,Q
+"Emanuel, Miss. Virginia Ethel",female,S
+"Kilgannon, Mr. Thomas J",male,Q
+"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,S
+"Ayoub, Miss. Banoura",female,C
+"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,S
+"Long, Mr. Milton Clyde",male,S
+"Johnston, Mr. Andrew G",male,S
+"Ali, Mr. William",male,S
+"Harmer, Mr. Abraham (David Lishin)",male,S
+"Sjoblom, Miss. Anna Sofia",female,S
+"Rice, Master. George Hugh",male,Q
+"Dean, Master. Bertram Vere",male,S
+"Guggenheim, Mr. Benjamin",male,C
+"Keane, Mr. Andrew ""Andy""",male,Q
+"Gaskell, Mr. Alfred",male,S
+"Sage, Miss. Stella Anna",female,S
+"Hoyt, Mr. William Fisher",male,C
+"Dantcheff, Mr. Ristiu",male,S
+"Otter, Mr. Richard",male,S
+"Leader, Dr. Alice (Farnham)",female,S
+"Osman, Mrs. Mara",female,S
+"Ibrahim Shawah, Mr. Yousseff",male,C
+"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,S
+"Ponesell, Mr. Martin",male,S
+"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,S
+"Carter, Master. William Thornton II",male,S
+"Thomas, Master. Assad Alexander",male,C
+"Hedman, Mr. Oskar Arvid",male,S
+"Johansson, Mr. Karl Johan",male,S
+"Andrews, Mr. Thomas Jr",male,S
+"Pettersson, Miss. Ellen Natalia",female,S
+"Meyer, Mr. August",male,S
+"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,S
+"Alexander, Mr. William",male,S
+"Lester, Mr. James",male,S
+"Slemen, Mr. Richard James",male,S
+"Andersson, Miss. Ebba Iris Alfrida",female,S
+"Tomlin, Mr. Ernest Portage",male,S
+"Fry, Mr. Richard",male,S
+"Heininen, Miss. Wendla Maria",female,S
+"Mallet, Mr. Albert",male,C
+"Holm, Mr. John Fredrik Alexander",male,S
+"Skoog, Master. Karl Thorsten",male,S
+"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,S
+"Lulic, Mr. Nikola",male,S
+"Reuchlin, Jonkheer. John George",male,S
+"Moor, Mrs. (Beila)",female,S
+"Panula, Master. Urho Abraham",male,S
+"Flynn, Mr. John",male,Q
+"Lam, Mr. Len",male,S
+"Mallet, Master. Andre",male,C
+"McCormack, Mr. Thomas Joseph",male,Q
+"Stone, Mrs. George Nelson (Martha Evelyn)",female,
+"Yasbeck, Mrs. Antoni (Selini Alexander)",female,C
+"Richards, Master. George Sibley",male,S
+"Saad, Mr. Amin",male,C
+"Augustsson, Mr. Albert",male,S
+"Allum, Mr. Owen George",male,S
+"Compton, Miss. Sara Rebecca",female,C
+"Pasic, Mr. Jakob",male,S
+"Sirota, Mr. Maurice",male,S
+"Chip, Mr. Chang",male,S
+"Marechal, Mr. Pierre",male,C
+"Alhomaki, Mr. Ilmari Rudolf",male,S
+"Mudd, Mr. Thomas Charles",male,S
+"Serepeca, Miss. Augusta",female,C
+"Lemberopolous, Mr. Peter L",male,C
+"Culumovic, Mr. Jeso",male,S
+"Abbing, Mr. Anthony",male,S
+"Sage, Mr. Douglas Bullen",male,S
+"Markoff, Mr. Marin",male,C
+"Harper, Rev. John",male,S
+"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,C
+"Andersson, Master. Sigvard Harald Elias",male,S
+"Svensson, Mr. Johan",male,S
+"Boulos, Miss. Nourelain",female,C
+"Lines, Miss. Mary Conover",female,S
+"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,S
+"Aks, Mrs. Sam (Leah Rosen)",female,S
+"Wick, Mrs. George Dennick (Mary Hitchcock)",female,S
+"Daly, Mr. Peter Denis ",male,S
+"Baclini, Mrs. Solomon (Latifa Qurban)",female,C
+"Razi, Mr. Raihed",male,C
+"Hansen, Mr. Claus Peter",male,S
+"Giles, Mr. Frederick Edward",male,S
+"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,S
+"Sage, Miss. Dorothy Edith ""Dolly""",female,S
+"Gill, Mr. John William",male,S
+"Bystrom, Mrs. (Karolina)",female,S
+"Duran y More, Miss. Asuncion",female,C
+"Roebling, Mr. Washington Augustus II",male,S
+"van Melkebeke, Mr. Philemon",male,S
+"Johnson, Master. Harold Theodor",male,S
+"Balkic, Mr. Cerin",male,S
+"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,S
+"Carlsson, Mr. Frans Olof",male,S
+"Vander Cruyssen, Mr. Victor",male,S
+"Abelson, Mrs. Samuel (Hannah Wizosky)",female,C
+"Najib, Miss. Adele Kiamie ""Jane""",female,C
+"Gustafsson, Mr. Alfred Ossian",male,S
+"Petroff, Mr. Nedelio",male,S
+"Laleff, Mr. Kristo",male,S
+"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,C
+"Shelley, Mrs. William (Imanita Parrish Hall)",female,S
+"Markun, Mr. Johann",male,S
+"Dahlberg, Miss. Gerda Ulrika",female,S
+"Banfield, Mr. Frederick James",male,S
+"Sutehall, Mr. Henry Jr",male,S
+"Rice, Mrs. William (Margaret Norton)",female,Q
+"Montvila, Rev. Juozas",male,S
+"Graham, Miss. Margaret Edith",female,S
+"Johnston, Miss. Catherine Helen ""Carrie""",female,S
+"Behr, Mr. Karl Howell",male,C
+"Dooley, Mr. Patrick",male,Q
