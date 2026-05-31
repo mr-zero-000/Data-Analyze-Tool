@@ -2067,7 +2067,7 @@ class PlottingMethods:
                 "description": formatted_docstring
             })
             
-        return {'status': 'success', 'response': method_dicts}
+         return {'status': 'success', 'response': method_dicts}
 
     def _data_validate(self, data: Any) -> pd.DataFrame:
         """
@@ -2138,7 +2138,7 @@ class PlottingMethods:
         data: Any = '{"records":[]}', 
         meta_data: Optional[Dict[str, Any]] = None, 
         user_id: Optional[str] = None
-    ) -> Dict[str, Any]:
+     ) -> Dict[str, Any]:
         """
         Plots a responsive bar chart using Plotly Express. Maps parameters onto structured data payloads.
         """
