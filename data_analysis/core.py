@@ -58,7 +58,7 @@ class DataInspector:
             file_label = list(uploaded.keys())[0]
             data_source = io.BytesIO(uploaded[file_label])
 
-         except ImportError:
+        except ImportError:
             print("\n⚠️ 'google.colab' not found. Falling back to local machine paths.")
 
             file_path = input("Enter the local absolute path to your CSV file: ").strip()
